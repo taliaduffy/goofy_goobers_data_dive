@@ -1,10 +1,13 @@
 '''
 
-This is the visualization map of Illinois for the analysis of poverty and gambling
+This is the visualization map of Illinois for the analysis of poverty and gambling, made by the Goofy Goobers Data 
+Science Team at UIUC
 
 Created:    Nov 2023, J. Dost
 
 '''
+
+# Probably will have to integrate Plotly to make it interactive, will figure out later
 
 # Imports
 import geopandas as gpd
